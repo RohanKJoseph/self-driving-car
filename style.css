@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background: #333333;
+    overflow: hidden;
+    text-align: center;
+}
+
+#gameCanvas {
+    background: #d3d3d3;
+}
